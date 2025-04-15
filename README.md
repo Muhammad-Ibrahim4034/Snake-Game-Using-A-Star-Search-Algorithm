@@ -2,10 +2,6 @@
 In this project me any my team created snake game with both manual and A* search algorithm to illustrate the difference between an Ai algorithm and human.
 
 
-Absolutely! Here's a polished and detailed `README.md` file for your **Snake Game with Manual & A* AI Modes** project:
-
----
-
 # 🐍 Snake Game: Manual Play vs. A* AI Search
 
 ## 💡 Project Overview
@@ -18,11 +14,9 @@ The aim of the project is to visually **compare human behavior vs. AI behavior**
 
 ## 👥 Team Members
 
-- [Your Name]
-- [Teammate 1]
-- [Teammate 2]
-- [Teammate 3]  
-*(Update with actual names)*
+- Muhammad Ibrahim
+- Muhammad Hamza Nawaz
+
 
 ## 🎯 Objectives
 
@@ -49,26 +43,6 @@ The aim of the project is to visually **compare human behavior vs. AI behavior**
 - The snake follows the optimal path while avoiding collisions.
 - If no valid path exists, the game ends.
 
-## 📁 Folder Structure
-
-```
-snake-ai-game/
-│
-├── snake_game.py           # Main game loop and logic
-├── ai.py                   # A* pathfinding logic
-├── game_objects.py         # Snake, food, and grid components
-├── assets/                 # (Optional) images/sounds
-└── README.md               # Project documentation
-```
-
-## 🎮 Controls (Manual Mode)
-
-- **Arrow Keys** – Move the snake: ↑ ↓ ← →
-- **M Key** – Switch to Manual Mode
-- **A Key** – Switch to AI Mode
-- **R Key** – Restart the game
-- **Q Key** – Quit the game
-
 ## 🔍 A* Algorithm: How It Works
 
 - Treats the game grid as a graph.
@@ -85,24 +59,6 @@ snake-ai-game/
 | Mistakes        | Possible       | Rare (unless no valid path) |
 | Path            | Varies         | Always optimal (if path exists) |
 
-## 📸 Screenshots
-
-*(You can add screenshots here to show gameplay in both modes)*
-
-## 🧪 How to Run
-
-### 🐍 Requirements
-- Python 3.x
-- Pygame  
-  Install using:  
-  ```
-  pip install pygame
-  ```
-
-### ▶️ Start the Game
-```bash
-python snake_game.py
-```
 
 ## 🔮 Future Improvements
 
@@ -115,8 +71,3 @@ python snake_game.py
 
 - Pygame Library
 - A* Search Algorithm Theory
-- Open-source snake game inspirations
-
----
-
-Let me know if you want help writing the actual Python files for the game, including A* logic and manual controls — happy to help you build the full project step-by-step!
