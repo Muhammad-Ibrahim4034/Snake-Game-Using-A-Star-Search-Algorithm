@@ -16,6 +16,7 @@ The aim of the project is to visually **compare human behavior vs. AI behavior**
 
 - Muhammad Ibrahim
 - Muhammad Hamza Nawaz
+- Rameela Hassan
 
 
 ## 🎯 Objectives
